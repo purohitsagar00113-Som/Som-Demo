@@ -1,2 +1,3 @@
 # Som-Demo
-This Is My first Git Repo
+This Is My first Git Repository
+Author-Som
